@@ -15,7 +15,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
 ## Eksempel og en enkelt idé
 I dokumentatinen for Header elementet fremgår for eksempel at dette elementet kan benyttes til at:<br>
-Præsenterer introducerende indhold, det kunne eksempelvis være en forklarende tekst. At header er et naturligt forældre element til et logo. Vi har tidligere set på image tagget `<img src="" alt="">`, så et naturligt eksperiment kunne være, at se om man kunne implementere et logo i prokejtets header. Det fremgår også at heading elementer `<h1>` til `<h6>` naturligt kan placeres her, som eksempelvis en overskrift for applikationen.
+Præsenterer introducerende indhold, det kunne eksempelvis være en forklarende tekst. At header er et naturligt forældre element til et logo. Vi har tidligere set på image tagget `<img src="" alt="">`, så et naturligt eksperiment kunne her være, at se om man kunne implementere et logo i prokejtets header. Det fremgår også at heading elementer `<h1>` til `<h6>` naturligt kan placeres her, som eksempelvis en overskrift for applikationen.
 
 
 Happy Hacking
