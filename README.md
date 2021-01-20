@@ -10,7 +10,7 @@ I Freestyle opgaven skal I eksperimenterer med, at implementere yderligere indho
 
 I introduktion har jeg nævnt at Mozilla har en såkaldt developer guide, som min undervisning tager udgangspunkt i. Det en dokumentation vi kan slå op i, når vi for eksempel skal finde ud af, hvilke elementer som vil være naturlige at placere som childrens, i et element som eksempel vis header. 
 
-**Link til MDN developer guide over HTML elementer:**
+**Link til MDN developer guide over HTML elementer:**<br>
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
 ## Eksempel og en enkelt idé
