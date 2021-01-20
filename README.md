@@ -8,7 +8,7 @@ I opgaven Hello World arbejdede I i praksis med seks af de helt store semantiske
 
 I Freestyle opgaven skal I eksperimenterer med, at implementere yderligere indhold, i nogle tilfælde kan det måske endda give mening, at fjerne dette eksisterende paragraph tag, eller erstatte dets indhold med noget som giver bedre mening. For at kunne implementere elementer som fungerer som childrens af ex. header elementet, er det nødvendigt at forstå, hvad det aktuelle semantiske tag er tiltænkt at skulle formidle eller præsentere.
 
-I introduktion har jeg nævnt at Mozilla har en såkaldt developer guide, som min undervisning tager udgangspunkt i. Det en dokumentation vi kan slå op i, når vi skal finde ud af, hvilke elementer som vil være naturlige at placere som childrens, i et et element som eksempel vis header elementet. 
+I introduktion har jeg nævnt at Mozilla har en såkaldt developer guide, som min undervisning tager udgangspunkt i. Det en dokumentation vi kan slå op i, når vi for eksempel skal finde ud af, hvilke elementer som vil være naturlige at placere som childrens, i et et element som eksempel vis header elementet. 
 
 **Link til MDN developer guide over HTML elementer:**
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
